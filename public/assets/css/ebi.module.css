@@ -1,0 +1,221 @@
+.aboutflex {
+  position: relative;
+  right: 20vw;
+  margin-top: 5rem;
+}
+
+.lineheightlg {
+  font-size: 16px;
+  color: #0c2957;
+  line-height: 1.7em;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  font-family: var(--barlow);
+  background: rgb(255, 255, 255);
+}
+
+.gap {
+  gap: 15rem;
+}
+
+.sectionbg1 {
+  height: 60vh;
+  background-color: rgb(226, 223, 214);
+}
+
+.bgsection {
+  height: 40vh;
+  background-color: rgb(226, 223, 214);
+}
+
+.certificationbgimg1 {
+  background-image: url(/assets/ebi_images/certification-thumbnail.webp);
+  height: 50vh;
+  width: 50rem;
+  background-size: cover;
+}
+
+.certificationbgimg2 {
+  background-image: url(/assets/ebi_images/EBI-icf.webp);
+  height: 30vh;
+  background-repeat: no-repeat;
+  margin-left: 6rem;
+  /* backgroundSize: "cover;", */
+}
+
+.sectionbg2 {
+  height: 30vh;
+  background-color: rgb(226, 223, 214);
+}
+
+.rowcontainer {
+  width: 75vw;
+  gap: 6rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.headerquote {
+  font-size: 2rem;
+  color: #ffffff;
+  padding-top: 3rem;
+}
+
+.guidingsectionbg1 {
+  height: 65vh;
+  background-color: rgb(226, 223, 214);
+  margin-bottom: 3rem;
+}
+
+.twgcontainer {
+  width: 30vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rowgap {
+  gap: 15rem;
+  width: 40vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.gap2 {
+  gap: 3rem;
+}
+
+.marginbtm {
+  padding-bottom: 3rem;
+}
+
+.admissions {
+  display: flex;
+  gap: 2rem;
+  width: 70vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.boxwidth {
+  width: 40vw;
+}
+
+.admissionsbg {
+  /* height: 60vh; */
+  min-height: 30rem;
+  background-color: rgb(226, 223, 214);
+}
+
+.coachingbg {
+  /* height: 60vh; */
+  min-height: 14rem;
+  background-color: rgb(226, 223, 214);
+}
+
+.bulletpoints {
+  background-color: rgba(64, 119, 179, 0.57);
+  width: 35rem;
+  padding: 2rem;
+  border-radius: 9px;
+  position: absolute;
+  left: 35rem;
+  top: 10rem;
+  /* top: 30rem; */
+  /* right: 50; */
+}
+
+.blttext {
+  color: #ffffff;
+  font-size: 1.4rem;
+}
+
+.listitem {
+  color: #ffffff;
+  font-size: 1.2rem;
+  margin-left: 1rem;
+}
+
+.container1 {
+  position: relative;
+}
+
+.bcsection1 {
+  height: 40rem;
+}
+
+.bcul {
+  padding-top: 1rem;
+}
+
+.textcolor {
+  color: #777777;
+  font-size: 1.2rem;
+}
+
+.fontsize {
+  font-size: 1.5rem;
+}
+
+.ctabtnbg {
+  background-color: #e3dfd5 !important;
+}
+
+.tuitionh4 {
+  text-align: center;
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+}
+
+.tuitionbg {
+  background-color: rgb(226, 223, 214);
+  /* height: 95rem; */
+  height: 100rem;
+}
+
+.chooseusbg {
+  background-color: rgb(188, 188, 188);
+}
+
+/* Staff popup CSS */
+
+/* .alignbtn {
+} */
+.readmorebtn {
+  align-items: center;
+  justify-content: center;
+}
+.popupsection {
+  position: relative;
+  width: 50vw;
+  height: 50vh;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #0c2957;
+  /* bottom: 50rem; */
+}
+
+/* .biotextcontainer {
+} */
+
+/* slider6 */
+.sliderbg {
+  background-color: rgb(225, 223, 215) !important;
+}
+
+
+.ptext {
+  /* font-size: 1.7rem !important; */
+  line-height: 1.7;
+}
+
+.width {
+ padding-left: 1rem;
+}
+
+
+.programsactive {
+  background-color: #0c2957 !important; 
+}
+
